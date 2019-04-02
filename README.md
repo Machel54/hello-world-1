@@ -2,7 +2,7 @@
 
 ## Authors
 - [Machel Nyanumba](https://github.com/Machel54)
-- Add your clickable username here. It should point to your GitHub account. 
+- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
 To start using this project use the following commands:
